@@ -1,0 +1,39 @@
+# ---------------------------------------------------------------
+# Secrets: never commit these
+# ---------------------------------------------------------------
+# config.json can hold the Elsevier API key. Commit config.example.json
+# instead; copy it to config.json locally and add the key there.
+config.json
+.env
+.env.*
+*.key
+*.pem
+secrets.*
+
+# ---------------------------------------------------------------
+# Original source material (large and partly private)
+# ---------------------------------------------------------------
+# Full-size photos (~24 MB) and the CV LaTeX sources, which contain a
+# phone number and referees' contact details. The site uses resized
+# copies in site/assets/, so it does not need these.
+source-files/
+
+# ---------------------------------------------------------------
+# Python
+# ---------------------------------------------------------------
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# ---------------------------------------------------------------
+# Editor, tool and OS clutter
+# ---------------------------------------------------------------
+.claude/
+.vscode/
+.idea/
+*.swp
+*.log
+.DS_Store
+Thumbs.db
+desktop.ini

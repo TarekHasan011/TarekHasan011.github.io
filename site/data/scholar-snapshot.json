@@ -1,0 +1,162 @@
+{
+ "name": "Md. Tarek Hasan",
+ "profile_url": "https://scholar.google.com/citations?user=SFfUSOIAAAAJ&hl=en",
+ "metrics": {
+  "citations": 222,
+  "citations_recent": 221,
+  "h_index": 6,
+  "h_index_recent": 6,
+  "i10_index": 5,
+  "i10_index_recent": 5,
+  "recent_label": "Since 2021"
+ },
+ "citations_per_year": [
+  {
+   "year": 2023,
+   "citations": 11
+  },
+  {
+   "year": 2024,
+   "citations": 45
+  },
+  {
+   "year": 2025,
+   "citations": 82
+  },
+  {
+   "year": 2026,
+   "citations": 80
+  }
+ ],
+ "publications": [
+  {
+   "title": "Architecture-oriented benchmarking and weighted ensemble learning for multi-class plant disease classification",
+   "authors": "MT Hasan, F Rayhan, MT Samiha, M Bashir, MS Hossain, S Ahmmed",
+   "venue": "Array, 101348",
+   "year": 2026,
+   "citations": 0,
+   "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=SFfUSOIAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=SFfUSOIAAAAJ:hqOjcs7Dif8C"
+  },
+  {
+   "title": "DPMT-Net: a dual-prompt attention multi-task 3D network for joint nodule segmentation and malignancy prediction in lung CT scans",
+   "authors": "D Sutradhar, R Debnath, S Rahman, M Hasan, S Azam",
+   "venue": "Complex & Intelligent Systems",
+   "year": 2026,
+   "citations": 0,
+   "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=SFfUSOIAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=SFfUSOIAAAAJ:UebtZRa9Y70C"
+  },
+  {
+   "title": "Many Dialects, Many Languages, One Cultural Lens: Evaluating Multilingual VLMs for Bengali Culture Understanding Across Historically Linked Languages and Regional Dialects",
+   "authors": "NL Sayeedi, MFA Sayeedi, SR Dipta, R Tabassum, AE Hridoy, ...",
+   "venue": "arXiv preprint arXiv:2603.21165",
+   "year": 2026,
+   "citations": 2,
+   "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=SFfUSOIAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=SFfUSOIAAAAJ:_FxGoFyzp5QC"
+  },
+  {
+   "title": "Deepfake Synthesis vs. Detection: An Uneven Contest",
+   "authors": "MT Hasan, S Saha, S Fan, S Shatabda, T Sim",
+   "venue": "arXiv preprint arXiv:2602.07986",
+   "year": 2026,
+   "citations": 0,
+   "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=SFfUSOIAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=SFfUSOIAAAAJ:ufrVoPGSRksC"
+  },
+  {
+   "title": "Tabular and graph-based representations for noise and missing data in robust machine learning",
+   "authors": "G Imran, MP Hossain, M Hasan, MT Hasan, Ohidujjaman",
+   "venue": "Array, 100697",
+   "year": 2026,
+   "citations": 12,
+   "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=SFfUSOIAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=SFfUSOIAAAAJ:WF5omc3nYNoC"
+  },
+  {
+   "title": "Fitness Risk Analysis in Gym Training: Evaluating Normal and Abnormal Postures Across Weighted and Non-Weighted Exercises",
+   "authors": "M Rahman, FF Alam, MI Mahamud, MT Hasan, SA Shourav, N Hossain",
+   "venue": "2025 28th International Conference on Computer and Information Technology",
+   "year": 2025,
+   "citations": 0,
+   "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=SFfUSOIAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=SFfUSOIAAAAJ:Se3iqnhoufwC"
+  },
+  {
+   "title": "RipeNet: A Deep Learning Framework for Exterior Image-Based Watermelon Ripeness Prediction",
+   "authors": "SA Shourav, AAM Bhuiyan, SMN Rahman, S Sarkar, MT Hasan, ...",
+   "venue": "2025 28th International Conference on Computer and Information Technology",
+   "year": 2025,
+   "citations": 0,
+   "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=SFfUSOIAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=SFfUSOIAAAAJ:roLk4NBRz8UC"
+  },
+  {
+   "title": "BnSFD: YOLOv12-Based Detection of Bangladeshi Street Foods for Cultural Heritage",
+   "authors": "A Nafiz, MS Islam, A Anas, MR Sabbir, A Hasan, KB Jahangir, ...",
+   "venue": "2025 28th International Conference on Computer and Information Technology",
+   "year": 2025,
+   "citations": 0,
+   "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=SFfUSOIAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=SFfUSOIAAAAJ:LkGwnXOMwfcC"
+  },
+  {
+   "title": "Scaling Millions to Billions: CaieFinder’s Journey from Monolith to Microservices to Serverless",
+   "authors": "RA Islam, S Islam, MT Hasan, MSH Mukta",
+   "venue": "2025 16th International Conference on Network of the Future (NoF), 96-100",
+   "year": 2025,
+   "citations": 0,
+   "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=SFfUSOIAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=SFfUSOIAAAAJ:eQOLeE2rZwMC"
+  },
+  {
+   "title": "AniFaceDiff: Animating stylized avatars via parametric conditioned diffusion models",
+   "authors": "K Chen, S Seneviratne, W Wang, D Hu, S Saha, MT Hasan, S Rasnayaka, ...",
+   "venue": "Pattern Recognition, 112017",
+   "year": 2025,
+   "citations": 15,
+   "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=SFfUSOIAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=SFfUSOIAAAAJ:YsMSGLbcyi4C"
+  },
+  {
+   "title": "HyperQ-Opt: Q-learning for Hyperparameter Optimization",
+   "authors": "MT Hasan",
+   "venue": "arXiv preprint arXiv:2412.17765",
+   "year": 2024,
+   "citations": 8,
+   "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=SFfUSOIAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=SFfUSOIAAAAJ:W7OEmFMy1HYC"
+  },
+  {
+   "title": "Deep Transfer Learning Based Peer Review Aggregation and Meta-review Generation for Scientific Articles",
+   "authors": "MT Hasan, MN Shamael, HM Mutasim Billah, A Akter, MAE Hossain, ...",
+   "venue": "arXiv preprint arXiv:2410.04202",
+   "year": 2024,
+   "citations": 5,
+   "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=SFfUSOIAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=SFfUSOIAAAAJ:zYLM7Y9cAGgC"
+  },
+  {
+   "title": "A Review on Deep-Learning-Based Cyberbullying Detection",
+   "authors": "MT Hasan, MAE Hossain, MSH Mukta, A Akter, M Ahmed, S Islam",
+   "venue": "Future Internet 15 (5), 179",
+   "year": 2023,
+   "citations": 140,
+   "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=SFfUSOIAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=SFfUSOIAAAAJ:9yKSN-GCB0IC"
+  },
+  {
+   "title": "An Artificial Intelligence-based Framework to Achieve the Sustainable Development Goals in the Context of Bangladesh",
+   "authors": "MT Hasan, MN Shamael, A Akter, R Islam, MSH Mukta, S Islam",
+   "venue": "International Conference on Sustainable Development, 102-112",
+   "year": 2023,
+   "citations": 20,
+   "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=SFfUSOIAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=SFfUSOIAAAAJ:d1gkVwhDpl0C"
+  },
+  {
+   "title": "KNNTree: A New Method to Ameliorate K-Nearest Neighbour Classification using Decision Tree",
+   "authors": "N Islam, M Fatema-Tuj-Jahra, MT Hasan, DM Farid",
+   "venue": "2023 International Conference on Electrical, Computer and Communication",
+   "year": 2023,
+   "citations": 17,
+   "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=SFfUSOIAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=SFfUSOIAAAAJ:u-x6o8ySG0sC"
+  },
+  {
+   "title": "Adaptive Tabu Dropout for Regularization of Deep Neural Networks",
+   "authors": "MT Hasan, A Akter, MN Shamael, MAE Hossain, HMM Billah, S Islam, ...",
+   "venue": "International Conference on Neural Information Processing, 355-366",
+   "year": 2022,
+   "citations": 3,
+   "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=SFfUSOIAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=SFfUSOIAAAAJ:u5HHmVD_uO8C"
+  }
+ ],
+ "fetched_at": "2026-11-07T15:00:33+00:00"
+}

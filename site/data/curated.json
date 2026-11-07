@@ -1,0 +1,105 @@
+{
+  "_about": "Extra details for publications that Google Scholar shortens or leaves out. Keyed by the start of the title (lowercase). Anything on Scholar that is not listed here still appears automatically, built from Scholar's data. Fields are optional: type (journal | conference | preprint), url, authors, venue, journal (a key from config.json journals), badges, links (extra links such as datasets).",
+  "many dialects, many languages": {
+    "type": "conference",
+    "url": "https://arxiv.org/abs/2603.21165",
+    "venue": "Findings of the Association for Computational Linguistics: EMNLP 2026, Budapest, Hungary, pp. 45421–45454",
+    "badges": [{"label": "CORE A*", "tone": "gold"}]
+  },
+  "anifacediff": {
+    "type": "journal",
+    "journal": "patcog",
+    "url": "https://doi.org/10.1016/j.patcog.2025.112017",
+    "authors": "K. Chen, S. Seneviratne, W. Wang, D. Hu, S. Saha, Md. Tarek Hasan, S. Rasnayaka, T. Malepathirana, M. Gong, S. Halgamuge",
+    "venue": "Pattern Recognition (Elsevier), vol. 170, 112017"
+  },
+  "architecture-oriented benchmarking": {
+    "type": "journal",
+    "journal": "array",
+    "url": "https://doi.org/10.1016/j.array.2026.101348",
+    "authors": "Md. Tarek Hasan, F. Rayhan, M. T. Samiha, M. Bashir, M. S. Hossain, S. Ahmmed, Ohidujjaman",
+    "venue": "Array (Elsevier), 101348"
+  },
+  "tabular and graph-based": {
+    "type": "journal",
+    "journal": "array",
+    "url": "https://doi.org/10.1016/j.array.2026.100697",
+    "authors": "G. Imran, M. P. Hossain, M. Hasan, Md. Tarek Hasan, Ohidujjaman",
+    "venue": "Array (Elsevier), 100697"
+  },
+  "dpmt-net": {
+    "type": "journal",
+    "journal": "cis",
+    "url": "https://doi.org/10.1007/s40747-026-02337-w",
+    "authors": "D. Sutradhar, R. Debnath, S. Rahman, Md. Tarek Hasan, S. Azam",
+    "venue": "Complex & Intelligent Systems (Springer)"
+  },
+  "a review on deep-learning-based cyberbullying": {
+    "type": "journal",
+    "journal": "futureinternet",
+    "url": "https://doi.org/10.3390/fi15050179",
+    "authors": "Md. Tarek Hasan, M. A. E. Hossain, M. S. H. Mukta, A. Akter, M. Ahmed, S. Islam",
+    "venue": "Future Internet (MDPI), vol. 15, no. 5, 179"
+  },
+  "deepfake synthesis vs. detection": {
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2602.07986",
+    "authors": "Md. Tarek Hasan, S. Saha, S. Fan, S. Shatabda, T. Sim",
+    "badges": [{"label": "Part of M.Sc. thesis", "tone": "gold"}]
+  },
+  "hyperq-opt": {
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2412.17765",
+    "authors": "Md. Tarek Hasan",
+    "badges": [{"label": "Sole author", "tone": "outline"}]
+  },
+  "deep transfer learning based peer review": {
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2410.04202",
+    "badges": [{"label": "B.Sc. thesis", "tone": "gold"}],
+    "links": [{"label": "Dataset (Mendeley Data)", "url": "https://data.mendeley.com/datasets/wfsspy2gx8/1"}]
+  },
+  "scaling millions to billions": {
+    "type": "conference",
+    "url": "https://doi.org/10.1109/NoF66640.2025.11223309",
+    "authors": "R. A. Islam, S. Islam, Md. Tarek Hasan, M. S. H. Mukta",
+    "venue": "16th International Conference on Network of the Future (NoF), IEEE, pp. 96–100"
+  },
+  "bnsfd": {
+    "type": "conference",
+    "authors": "A. Nafiz, M. S. Islam, A. Anas, M. R. Sabbir, A. Hasan, K. B. Jahangir, S. A. Shourav, Md. Tarek Hasan",
+    "venue": "28th International Conference on Computer and Information Technology (ICCIT), IEEE, pp. 353–358",
+    "badges": [{"label": "Scopus indexed", "tone": "outline"}]
+  },
+  "ripenet": {
+    "type": "conference",
+    "authors": "S. A. Shourav, A. A. M. Bhuiyan, S. M. N. Rahman, S. Sarkar, Md. Tarek Hasan, N. Hossain",
+    "venue": "28th International Conference on Computer and Information Technology (ICCIT), IEEE, pp. 431–436",
+    "badges": [{"label": "Scopus indexed", "tone": "outline"}]
+  },
+  "fitness risk analysis": {
+    "type": "conference",
+    "authors": "M. Rahman, F. F. Alam, M. I. Mahamud, Md. Tarek Hasan, S. A. Shourav, N. Hossain",
+    "venue": "28th International Conference on Computer and Information Technology (ICCIT), IEEE, pp. 359–364",
+    "badges": [{"label": "Scopus indexed", "tone": "outline"}]
+  },
+  "an artificial intelligence-based framework": {
+    "type": "conference",
+    "authors": "Md. Tarek Hasan, M. N. Shamael, A. Akter, R. Islam, M. S. H. Mukta, S. Islam",
+    "venue": "International Conference on Sustainable Development, pp. 102–112"
+  },
+  "knntree": {
+    "type": "conference",
+    "url": "https://doi.org/10.1109/ECCE57851.2023.10101569",
+    "authors": "N. Islam, M. Fatema-Tuj-Jahra, Md. Tarek Hasan, D. M. Farid",
+    "venue": "International Conference on Electrical, Computer and Communication Engineering (ECCE), IEEE, pp. 1–6",
+    "badges": [{"label": "Best Paper Award · 2nd place", "tone": "gold"}, {"label": "Scopus indexed", "tone": "outline"}]
+  },
+  "adaptive tabu dropout": {
+    "type": "conference",
+    "url": "https://doi.org/10.1007/978-3-031-30105-6_30",
+    "authors": "Md. Tarek Hasan, A. Akter, M. N. Shamael, M. A. E. Hossain, H. M. M. Billah, S. Islam, S. Shatabda",
+    "venue": "International Conference on Neural Information Processing (ICONIP), Springer, pp. 355–366",
+    "badges": [{"label": "CORE B", "tone": "gold"}]
+  }
+}
