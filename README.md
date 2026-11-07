@@ -27,6 +27,8 @@ The workflow in `.github/workflows/pages.yml` publishes the `site/` folder. Once
 
 If Google Scholar blocks the daily request, the site keeps showing the last saved data.
 
+Google Scholar does block GitHub's servers, so Scholar data is refreshed from this computer instead: the Windows scheduled task **"Tarek website - daily Scholar refresh"** runs `refresh_and_push.ps1` every day at 10:00 (or as soon as the PC is on after that), fetches Scholar and pushes the update. Its log is `refresh.log`. To stop it, delete the task in Task Scheduler.
+
 ## Folders
 
 | Folder / file | What it holds |
