@@ -13,8 +13,7 @@ secrets.*
 # ---------------------------------------------------------------
 # Original source material (large and partly private)
 # ---------------------------------------------------------------
-# Full-size photos (~24 MB) and the CV LaTeX sources, which contain a
-# phone number and referees' contact details. The site uses resized
+# Full-size original photos (~24 MB) and the original CV. The site uses resized
 # copies in site/assets/, so it does not need these.
 source-files/
 

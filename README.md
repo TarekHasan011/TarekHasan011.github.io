@@ -44,8 +44,8 @@ Google Scholar does block GitHub's servers, so Scholar data is refreshed from th
 | `site/assets/img/` | Web-ready images (resized JPG + WebP), with organisation logos in `logos/`. |
 | `site/assets/docs/` | The CV PDF linked from the "View CV" button. |
 | `site/data/` | `curated.json` (manual paper details, editable) and data saved automatically by the server. |
-| `source-files/` | Original, full-size material. Not used by the site directly, and not committed to Git (large, and the CV sources hold private contact details). |
-| `source-files/cv/` | CV PDF and its LaTeX source. |
+| `source-files/` | Original, full-size material. Not used by the site directly, and not committed to Git (large original files). |
+| `source-files/cv/` | The original CV PDF. |
 | `source-files/photos/` | Original photos (portrait, graduation, medals, Blockchain Olympiad, convocations). |
 | `source-files/press/` | Ajker Patrika newspaper clipping and its e-paper link. |
 | `source-files/logos/` | Original logo files. |
