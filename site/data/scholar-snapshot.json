@@ -2,8 +2,8 @@
  "name": "Md. Tarek Hasan",
  "profile_url": "https://scholar.google.com/citations?user=SFfUSOIAAAAJ&hl=en",
  "metrics": {
-  "citations": 222,
-  "citations_recent": 221,
+  "citations": 220,
+  "citations_recent": 219,
   "h_index": 6,
   "h_index_recent": 6,
   "i10_index": 5,
@@ -25,7 +25,7 @@
   },
   {
    "year": 2026,
-   "citations": 80
+   "citations": 78
   }
  ],
  "publications": [
@@ -66,7 +66,7 @@
    "authors": "G Imran, MP Hossain, M Hasan, MT Hasan, Ohidujjaman",
    "venue": "Array, 100697",
    "year": 2026,
-   "citations": 12,
+   "citations": 10,
    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=SFfUSOIAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=SFfUSOIAAAAJ:WF5omc3nYNoC"
   },
   {
@@ -158,5 +158,5 @@
    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=SFfUSOIAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=SFfUSOIAAAAJ:u5HHmVD_uO8C"
   }
  ],
- "fetched_at": "2026-11-13T04:00:11+00:00"
+ "fetched_at": "2026-11-14T04:00:08+00:00"
 }

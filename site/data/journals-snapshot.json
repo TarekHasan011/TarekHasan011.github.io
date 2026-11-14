@@ -8,8 +8,8 @@
    "jcr_if": 9.1,
    "jcr_quartile": "Q1",
    "openalex": {
-    "two_year_mean_citedness": 8.44,
-    "h_index": 305
+    "two_year_mean_citedness": 8.45,
+    "h_index": 306
    },
    "scopus": null
   },
@@ -54,5 +54,5 @@
   }
  ],
  "scopus_enabled": false,
- "fetched_at": "2026-11-13T07:06:30+00:00"
+ "fetched_at": "2026-11-14T04:00:12+00:00"
 }
