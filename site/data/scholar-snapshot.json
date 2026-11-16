@@ -2,8 +2,8 @@
  "name": "Md. Tarek Hasan",
  "profile_url": "https://scholar.google.com/citations?user=SFfUSOIAAAAJ&hl=en",
  "metrics": {
-  "citations": 220,
-  "citations_recent": 219,
+  "citations": 221,
+  "citations_recent": 220,
   "h_index": 6,
   "h_index_recent": 6,
   "i10_index": 5,
@@ -25,7 +25,7 @@
   },
   {
    "year": 2026,
-   "citations": 78
+   "citations": 79
   }
  ],
  "publications": [
@@ -106,7 +106,7 @@
    "authors": "K Chen, S Seneviratne, W Wang, D Hu, S Saha, MT Hasan, S Rasnayaka, ...",
    "venue": "Pattern Recognition, 112017",
    "year": 2025,
-   "citations": 15,
+   "citations": 16,
    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=SFfUSOIAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=SFfUSOIAAAAJ:YsMSGLbcyi4C"
   },
   {
@@ -158,5 +158,5 @@
    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=SFfUSOIAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=SFfUSOIAAAAJ:u5HHmVD_uO8C"
   }
  ],
- "fetched_at": "2026-11-14T06:55:03+00:00"
+ "fetched_at": "2026-11-16T04:00:07+00:00"
 }
