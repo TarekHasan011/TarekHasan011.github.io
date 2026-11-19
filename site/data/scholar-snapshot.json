@@ -2,8 +2,8 @@
  "name": "Md. Tarek Hasan",
  "profile_url": "https://scholar.google.com/citations?user=SFfUSOIAAAAJ&hl=en",
  "metrics": {
-  "citations": 221,
-  "citations_recent": 220,
+  "citations": 222,
+  "citations_recent": 221,
   "h_index": 6,
   "h_index_recent": 6,
   "i10_index": 5,
@@ -25,7 +25,7 @@
   },
   {
    "year": 2026,
-   "citations": 80
+   "citations": 81
   }
  ],
  "publications": [
@@ -130,7 +130,7 @@
    "authors": "MT Hasan, MAE Hossain, MSH Mukta, A Akter, M Ahmed, S Islam",
    "venue": "Future Internet 15 (5), 179",
    "year": 2023,
-   "citations": 140,
+   "citations": 141,
    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=SFfUSOIAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=SFfUSOIAAAAJ:9yKSN-GCB0IC"
   },
   {
@@ -158,5 +158,5 @@
    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=SFfUSOIAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=SFfUSOIAAAAJ:u5HHmVD_uO8C"
   }
  ],
- "fetched_at": "2026-11-18T04:00:07+00:00"
+ "fetched_at": "2026-11-19T04:00:09+00:00"
 }
