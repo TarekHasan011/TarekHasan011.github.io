@@ -8,8 +8,8 @@
    "jcr_if": 9.1,
    "jcr_quartile": "Q1",
    "openalex": {
-    "two_year_mean_citedness": 12.03,
-    "h_index": 322
+    "two_year_mean_citedness": 12.04,
+    "h_index": 323
    },
    "scopus": null
   },
@@ -21,8 +21,8 @@
    "jcr_if": 5.3,
    "jcr_quartile": "Q1",
    "openalex": {
-    "two_year_mean_citedness": 11.57,
-    "h_index": 60
+    "two_year_mean_citedness": 11.58,
+    "h_index": 61
    },
    "scopus": null
   },
@@ -54,5 +54,5 @@
   }
  ],
  "scopus_enabled": false,
- "fetched_at": "2026-11-24T10:19:41+00:00"
+ "fetched_at": "2026-11-25T04:00:11+00:00"
 }
