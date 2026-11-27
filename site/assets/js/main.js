@@ -149,7 +149,8 @@
       out.push(`<span class="pill pill-${sc.quartile.toLowerCase()}" title="${esc(tip)}">Scopus ${esc(sc.quartile)} <span class="mini-dot" aria-label="live"></span></span>`);
       if (sc.citescore) out.push(`<span class="metric-chip" title="Scopus CiteScore ${esc(sc.citescore_year)}"><span class="mini-dot" aria-hidden="true"></span>CiteScore ${esc(sc.citescore)}</span>`);
     } else if (j.jcr_quartile) {
-      out.push(`<span class="pill pill-${j.jcr_quartile.toLowerCase()}" title="Quartile as recorded in the CV">${esc(j.jcr_quartile)}</span>`);
+      const qs = j.quartile_source || '';
+      out.push(`<span class="pill pill-${j.jcr_quartile.toLowerCase()}" title="${qs ? `${esc(qs)} quartile` : 'Quartile as recorded in the CV'}">${qs ? esc(qs) + ' ' : ''}${esc(j.jcr_quartile)}</span>`);
     }
     if (j.jcr_if) out.push(`<span class="metric-chip" title="Journal Impact Factor (Clarivate JCR), entered by hand from the CV or the publisher. No public API exists for live values.">Impact Factor ${esc(j.jcr_if)} <span class="src">JCR</span></span>`);
     if (j.openalex && j.openalex.two_year_mean_citedness) out.push(`<span class="metric-chip" title="2-year mean citedness from OpenAlex, fetched live. Same formula as an impact factor, on OpenAlex data."><span class="mini-dot" aria-hidden="true"></span>2-yr citedness ${esc(j.openalex.two_year_mean_citedness.toFixed(2))} <span class="src">OpenAlex</span></span>`);
