@@ -112,6 +112,13 @@
    "source": "arXiv",
    "source_url": "http://arxiv.org/abs/2501.00538v1",
    "checked": 1794057414
+  },
+  "a bilingual bangla chittagonian parallel dataset for low resource machine translation and transformer based modeling": {
+   "title": "A Bilingual Bangla–Chittagonian Parallel Dataset for Low-Resource Machine Translation and Transformer-Based Modeling",
+   "abstract": "This article describes the creation and availability of a bilingual dataset consisting of Bangla and Chittagonian language pairs, developed to support data-driven research on under-resourced South Asian languages. Chittagonian is predominantly spoken in southeastern Bangladesh and exists primarily as an oral language, with little to no standardized or commonly used written representation. To support natural language processing and low-resource language research, a consistent written representation of Chittagonian was developed and applied throughout the Bangla–Chittagonian dataset. The dataset is organized into three components. The first component comprises 15270 Chittagonian lexical items aligned with Bangla equivalents and annotated with part-of-speech tags, enabling lexical, morphological, and syntactic analysis. The second component contains 3793 parallel sentence pairs, where Bangla sentences are aligned with manually translated Chittagonian counterparts, intended for use in machine translation and parallel corpus studies. The third component includes Chittagonian words or idiomatic expressions that correspond to full Bangla sentences, capturing structural and semantic variations between the two languages. Data collection and annotation were conducted manually, with all translations reviewed by native speakers of both Bangla and Chittagonian to ensure linguistic accuracy and contextual consistency. Tokenization and preprocessing were performed using custom scripts, and separate word-level tokenizers were developed for each language to support downstream NLP tasks. To illustrate potential reuse scenarios, the dataset was applied in training a sequence-to-sequence machine translation model based on the Transformer architecture. A transfer learning setup was employed, involving pretraining on a Bangla paraphrase corpus followed by fine-tuning on the Bangla–Chittagonian parallel data. The dataset is publicly released in structured, machine-readable formats and can be reused for low-resource machine translation, dialect modeling, lexicography, and language technology development for underrepresented language communities.",
+   "source": "OpenAlex",
+   "source_url": "https://doi.org/10.1016/j.dib.2026.113461",
+   "checked": 1795762053
   }
  }
 }
