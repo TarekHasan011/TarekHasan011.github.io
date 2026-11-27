@@ -66,6 +66,14 @@ jobs:
         with:
           ref: main   # includes the data commit made by the refresh job
 
+      # Tag the stylesheet and script with this commit, so browsers load the new
+      # versions after every deploy instead of an old cached copy.
+      - name: Add version tags to CSS and JS links
+        run: |
+          v="${GITHUB_SHA::7}"
+          sed -i "s|assets/css/styles.css\"|assets/css/styles.css?v=$v\"|; s|assets/js/main.js\"|assets/js/main.js?v=$v\"|" site/index.html
+          grep -n "styles.css\|main.js" site/index.html
+
       - uses: actions/configure-pages@v5
 
       - uses: actions/upload-pages-artifact@v3
