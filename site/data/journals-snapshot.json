@@ -8,8 +8,8 @@
    "jcr_if": 9.1,
    "jcr_quartile": "Q1",
    "openalex": {
-    "two_year_mean_citedness": 12.04,
-    "h_index": 323
+    "two_year_mean_citedness": 12.02,
+    "h_index": 319
    },
    "scopus": null
   },
@@ -21,8 +21,8 @@
    "jcr_if": 5.3,
    "jcr_quartile": "Q1",
    "openalex": {
-    "two_year_mean_citedness": 11.58,
-    "h_index": 61
+    "two_year_mean_citedness": 11.56,
+    "h_index": 60
    },
    "scopus": null
   },
@@ -34,7 +34,7 @@
    "jcr_if": 4.6,
    "jcr_quartile": "Q1",
    "openalex": {
-    "two_year_mean_citedness": 11.18,
+    "two_year_mean_citedness": 11.21,
     "h_index": 130
    },
    "scopus": null
@@ -48,11 +48,11 @@
    "jcr_quartile": "Q1",
    "openalex": {
     "two_year_mean_citedness": 6.85,
-    "h_index": 100
+    "h_index": 101
    },
    "scopus": null
   }
  ],
  "scopus_enabled": false,
- "fetched_at": "2026-11-26T08:46:59+00:00"
+ "fetched_at": "2026-11-27T04:00:11+00:00"
 }
