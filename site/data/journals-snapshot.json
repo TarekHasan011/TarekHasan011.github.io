@@ -7,7 +7,6 @@
    "issn": "0031-3203",
    "jcr_if": 9.1,
    "jcr_quartile": "Q1",
-   "quartile_source": "",
    "openalex": {
     "two_year_mean_citedness": 12.02,
     "h_index": 319
@@ -21,7 +20,6 @@
    "issn": "2590-0056",
    "jcr_if": 5.3,
    "jcr_quartile": "Q1",
-   "quartile_source": "",
    "openalex": {
     "two_year_mean_citedness": 11.56,
     "h_index": 60
@@ -35,7 +33,6 @@
    "issn": "1999-5903",
    "jcr_if": 4.6,
    "jcr_quartile": "Q1",
-   "quartile_source": "",
    "openalex": {
     "two_year_mean_citedness": 11.21,
     "h_index": 130
@@ -49,7 +46,6 @@
    "issn": "2199-4536",
    "jcr_if": 4.5,
    "jcr_quartile": "Q1",
-   "quartile_source": "",
    "openalex": {
     "two_year_mean_citedness": 6.85,
     "h_index": 101
@@ -63,7 +59,6 @@
    "issn": "2352-3409",
    "jcr_if": 1.9,
    "jcr_quartile": "Q1",
-   "quartile_source": "Scopus",
    "openalex": {
     "two_year_mean_citedness": 3.37,
     "h_index": 92
@@ -72,5 +67,5 @@
   }
  ],
  "scopus_enabled": false,
- "fetched_at": "2026-11-27T06:57:32+00:00"
+ "fetched_at": "2026-11-27T07:00:47+00:00"
 }

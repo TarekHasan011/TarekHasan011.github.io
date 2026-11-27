@@ -63,7 +63,7 @@ DEFAULT_CONFIG = {
          "issn": "2199-4536", "jcr_if": 4.5, "jcr_quartile": "Q1"},
         # Impact Factor from Elsevier's journal page (Nov 2026); quartile is Scopus Q1 (confirmed by Tarek).
         {"key": "dib", "name": "Data in Brief", "match": "data in brief",
-         "issn": "2352-3409", "jcr_if": 1.9, "jcr_quartile": "Q1", "quartile_source": "Scopus"},
+         "issn": "2352-3409", "jcr_if": 1.9, "jcr_quartile": "Q1"},
     ],
 }
 
@@ -204,7 +204,6 @@ def fetch_journals(cfg):
     out = []
     for j in cfg["journals"]:
         item = {k: j[k] for k in ("key", "name", "match", "issn", "jcr_if", "jcr_quartile")}
-        item["quartile_source"] = j.get("quartile_source", "")
         try:
             item["openalex"] = fetch_openalex(j["issn"])
         except Exception as e:  # keep going; one journal failing shouldn't blank the rest
