@@ -6,6 +6,12 @@
     "venue": "Findings of the Association for Computational Linguistics: EMNLP 2026, Budapest, Hungary, pp. 45421–45454",
     "badges": [{"label": "CORE A*", "tone": "gold"}]
   },
+  "a bilingual bangla": {
+    "type": "journal",
+    "url": "https://doi.org/10.1016/j.dib.2026.113461",
+    "authors": "H. H. Rupok, S. Sutradhar, E. Hasan, M. M. H. Jony, M. H. Bipul, M. Islam, Md. Tarek Hasan, N. Hossain",
+    "venue": "Data in Brief (Elsevier), 113461"
+  },
   "anifacediff": {
     "type": "journal",
     "journal": "patcog",

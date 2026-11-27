@@ -21,7 +21,7 @@ function Log($msg) {
 }
 
 # Keep the log short: last 300 lines
-if (Test-Path $log) { Get-Content $log -Tail 300 | Set-Content $log -Encoding utf8 }
+if (Test-Path $log) { $keep = @(Get-Content $log -Tail 300); Set-Content -Path $log -Value $keep -Encoding utf8 }
 
 Set-Location $repo
 Log '--- refresh started'
