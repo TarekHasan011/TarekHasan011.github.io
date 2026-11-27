@@ -51,8 +51,21 @@
     "h_index": 101
    },
    "scopus": null
+  },
+  {
+   "key": "dib",
+   "name": "Data in Brief",
+   "match": "data in brief",
+   "issn": "2352-3409",
+   "jcr_if": 1.9,
+   "jcr_quartile": null,
+   "openalex": {
+    "two_year_mean_citedness": 3.37,
+    "h_index": 92
+   },
+   "scopus": null
   }
  ],
  "scopus_enabled": false,
- "fetched_at": "2026-11-27T06:49:02+00:00"
+ "fetched_at": "2026-11-27T06:54:12+00:00"
 }

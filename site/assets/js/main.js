@@ -151,7 +151,7 @@
     } else if (j.jcr_quartile) {
       out.push(`<span class="pill pill-${j.jcr_quartile.toLowerCase()}" title="Quartile as recorded in the CV">${esc(j.jcr_quartile)}</span>`);
     }
-    if (j.jcr_if) out.push(`<span class="metric-chip" title="Journal Impact Factor (Clarivate JCR), as recorded in the CV. No public API exists for live values.">Impact Factor ${esc(j.jcr_if)} <span class="src">JCR</span></span>`);
+    if (j.jcr_if) out.push(`<span class="metric-chip" title="Journal Impact Factor (Clarivate JCR), entered by hand from the CV or the publisher. No public API exists for live values.">Impact Factor ${esc(j.jcr_if)} <span class="src">JCR</span></span>`);
     if (j.openalex && j.openalex.two_year_mean_citedness) out.push(`<span class="metric-chip" title="2-year mean citedness from OpenAlex, fetched live. Same formula as an impact factor, on OpenAlex data."><span class="mini-dot" aria-hidden="true"></span>2-yr citedness ${esc(j.openalex.two_year_mean_citedness.toFixed(2))} <span class="src">OpenAlex</span></span>`);
     return out.join('');
   }

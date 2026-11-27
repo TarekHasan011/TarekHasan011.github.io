@@ -8,6 +8,7 @@
   },
   "a bilingual bangla": {
     "type": "journal",
+    "journal": "dib",
     "url": "https://doi.org/10.1016/j.dib.2026.113461",
     "authors": "H. H. Rupok, S. Sutradhar, E. Hasan, M. M. H. Jony, M. H. Bipul, M. Islam, Md. Tarek Hasan, N. Hossain",
     "venue": "Data in Brief (Elsevier), 113461"

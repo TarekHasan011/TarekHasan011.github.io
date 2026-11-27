@@ -61,6 +61,9 @@ DEFAULT_CONFIG = {
          "issn": "1999-5903", "jcr_if": 4.6, "jcr_quartile": "Q1"},
         {"key": "cis", "name": "Complex & Intelligent Systems", "match": "complex & intelligent systems",
          "issn": "2199-4536", "jcr_if": 4.5, "jcr_quartile": "Q1"},
+        # Impact Factor from Elsevier's journal page (Nov 2026). Quartile not yet confirmed.
+        {"key": "dib", "name": "Data in Brief", "match": "data in brief",
+         "issn": "2352-3409", "jcr_if": 1.9, "jcr_quartile": None},
     ],
 }
 
